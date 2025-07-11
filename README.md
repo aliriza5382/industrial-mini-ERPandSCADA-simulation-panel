@@ -30,10 +30,3 @@ Her türlü geri bildirim veya öneri için:
 
 E-posta: [sahinaliriza888@gmail.com](mailto:sahinaliriza888@gmail.com)  
 GitHub: [github.com/aliriza5382](https://github.com/aliriza5382)
-
----
-
-### 1. Kütüphane Kurulumu
-
-```bash
-pip install flask streamlit pandas python-opcua paho-mqtt
