@@ -12,17 +12,17 @@ Donanımsız olarak çalışır; **OPC-UA**, **MQTT**, **REST API**, **Streamlit
 
 ---
 
-## Sistem Mimarisi
+## Kurulum ve Kullanım
 
-```text
-[main.py] (SoftPLC üretim simülasyonu)
-       │
-OPC-UA & MQTT
-       │
-[opcua_server.py]       [flask_server.py]
-       │                        │
-[erp_dashboard.py]    [Flutter Panel (main.dart)]
-       │                        │
-  Web Panel            Mobil/Web Panel
-       │________________________│
-           [log.csv] (veri kaydı)
+### Gereksinimler
+
+- Python 3.9+
+- Flutter SDK
+- pip, git
+
+---
+
+### 1. Kütüphane Kurulumu
+
+```bash
+pip install flask streamlit pandas python-opcua paho-mqtt
