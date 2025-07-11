@@ -3,6 +3,8 @@
 Donanımsız, Gerçek Zamanlı, Açık Kaynaklı PLC–SCADA–ERP Simülasyonu  
 Python + Flutter + OPC-UA + MQTT + REST + Web & Mobil Panel
 
+Bu projedeki temel amacım, PLC, SCADA, HMI, OPC-UA ve ERP sistemlerinin nasıl çalıştığını uygulamalı olarak öğrenmek ve bütünleşik bir otomasyon veri akışını yazılım ortamında deneyimlemektir. Donanım ihtiyacı olmadan, gerçek bir fabrika senaryosunu simüle ederek hem kavramsal hem de pratik bilgi kazanmayı hedefledim.
+
 ---
 
 ## Proje Özeti
